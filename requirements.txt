@@ -16,5 +16,4 @@ ipywidgets
 contextily
 seaborn
 Ipython
-plotly
-io
+
